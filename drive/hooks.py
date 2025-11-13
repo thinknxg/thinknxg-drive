@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
 app_name = "drive"
-app_title = "thinknxg Drive"
+app_title = "thinkNXG Drive"
 app_publisher = "thinknxg Technologies Pvt. Ltd."
 app_description = "An easy to use, document sharing and management solution."
 app_icon = "octicon octicon-file-directory"
